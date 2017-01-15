@@ -1,0 +1,26 @@
+C:\Users\zhesi\AppData\Local\Temporary Projects\wpfEFT1\bin\Debug\wpfEFT1.exe
+C:\Users\zhesi\AppData\Local\Temporary Projects\wpfEFT1\bin\Debug\wpfEFT1.pdb
+C:\Users\zhesi\AppData\Local\Temporary Projects\wpfEFT1\obj\x86\Debug\MainWindow.baml
+C:\Users\zhesi\AppData\Local\Temporary Projects\wpfEFT1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zhesi\AppData\Local\Temporary Projects\wpfEFT1\obj\x86\Debug\App.g.cs
+C:\Users\zhesi\AppData\Local\Temporary Projects\wpfEFT1\obj\x86\Debug\wpfEFT1_MarkupCompile.cache
+C:\Users\zhesi\AppData\Local\Temporary Projects\wpfEFT1\obj\x86\Debug\wpfEFT1.g.resources
+C:\Users\zhesi\AppData\Local\Temporary Projects\wpfEFT1\obj\x86\Debug\wpfEFT1.Properties.Resources.resources
+C:\Users\zhesi\AppData\Local\Temporary Projects\wpfEFT1\obj\x86\Debug\wpfEFT1.csproj.GenerateResource.Cache
+C:\Users\zhesi\AppData\Local\Temporary Projects\wpfEFT1\obj\x86\Debug\wpfEFT1.exe
+C:\Users\zhesi\AppData\Local\Temporary Projects\wpfEFT1\obj\x86\Debug\wpfEFT1.pdb
+C:\Users\zhesi\AppData\Local\Temporary Projects\wpfEFT1\obj\x86\Debug\Test.baml
+C:\Users\zhesi\AppData\Local\Temporary Projects\wpfEFT1\obj\x86\Debug\Test.g.cs
+C:\Users\zhesi\documents\visual studio 2010\Projects\wpfEFT1\wpfEFT1\obj\x86\Debug\wpfEFT1.exe
+C:\Users\zhesi\documents\visual studio 2010\Projects\wpfEFT1\wpfEFT1\obj\x86\Debug\wpfEFT1.pdb
+C:\Users\zhesi\documents\visual studio 2010\Projects\wpfEFT1\wpfEFT1\bin\Debug\wpfEFT1.exe
+C:\Users\zhesi\documents\visual studio 2010\Projects\wpfEFT1\wpfEFT1\bin\Debug\wpfEFT1.pdb
+C:\Users\zhesi\documents\visual studio 2010\Projects\wpfEFT1\wpfEFT1\obj\x86\Debug\MainWindow.baml
+C:\Users\zhesi\documents\visual studio 2010\Projects\wpfEFT1\wpfEFT1\obj\x86\Debug\Test.baml
+C:\Users\zhesi\documents\visual studio 2010\Projects\wpfEFT1\wpfEFT1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\zhesi\documents\visual studio 2010\Projects\wpfEFT1\wpfEFT1\obj\x86\Debug\Test.g.cs
+C:\Users\zhesi\documents\visual studio 2010\Projects\wpfEFT1\wpfEFT1\obj\x86\Debug\App.g.cs
+C:\Users\zhesi\documents\visual studio 2010\Projects\wpfEFT1\wpfEFT1\obj\x86\Debug\wpfEFT1_MarkupCompile.cache
+C:\Users\zhesi\documents\visual studio 2010\Projects\wpfEFT1\wpfEFT1\obj\x86\Debug\wpfEFT1.g.resources
+C:\Users\zhesi\documents\visual studio 2010\Projects\wpfEFT1\wpfEFT1\obj\x86\Debug\wpfEFT1.Properties.Resources.resources
+C:\Users\zhesi\documents\visual studio 2010\Projects\wpfEFT1\wpfEFT1\obj\x86\Debug\wpfEFT1.csproj.GenerateResource.Cache
